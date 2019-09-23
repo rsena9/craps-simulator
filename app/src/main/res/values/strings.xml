@@ -4,4 +4,14 @@
   <string name="reset">Reset</string>
   <string name="run_toast">The run option was selected</string>
   <string name="reset_toast">The run option was selected</string>
+  <string-array name="dummy_rolls">
+    <item>[1,5] =7</item>
+    <item>[2,7] =7</item>
+    <item>[3,6] =7</item>
+    <item>[4,3] =7</item>
+    <item>[5,2] =7</item>
+
+
+  </string-array>
+
 </resources>
