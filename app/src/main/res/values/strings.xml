@@ -2,16 +2,8 @@
   <string name="app_name">Craps Simulator</string>
   <string name="run">Run</string>
   <string name="reset">Reset</string>
-  <string name="run_toast">The run option was selected</string>
-  <string name="reset_toast">The run option was selected</string>
-  <string-array name="dummy_rolls">
-    <item>[1,5] =7</item>
-    <item>[2,7] =7</item>
-    <item>[3,6] =7</item>
-    <item>[4,3] =7</item>
-    <item>[5,2] =7</item>
-
-
-  </string-array>
-
+  <string name="run_toast">The Run option was selected.</string>
+  <string name="reset_toast">The Reset option was selected.</string>
+  <string name="tally_format">%1$d wins / %2$d plays  = %3$.2f%%</string>
+  <string name="value_format">= %d</string>
 </resources>
