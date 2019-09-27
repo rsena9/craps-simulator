@@ -35,8 +35,6 @@ public class RoundAdapter extends ArrayAdapter<Roll> {
     }
     winningRound = ContextCompat.getColor(context, R.color.winningRound);
     losingRound = ContextCompat.getColor(context, R.color.losingRound);
-
-
   }
 
   public void add(Round round) {
